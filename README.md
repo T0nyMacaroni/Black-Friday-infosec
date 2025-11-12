@@ -30,6 +30,11 @@ A list of Black Friday deals for infosec community.
 **Period:** Live now\
 **Link:** https://academy.tcm-sec.com/p/the-all-access-pass#pricing
 
+### Trainsec - All Individual Courses
+**Deal:** 40% off, use code `BF2025` at checkout.\
+**Period:** Until 30 Nov.\
+**Link:** https://trainsec.net/cybersecurity-courses-black-friday-2025/
+
 ## Hardware
 
 ### Yubico - YubiKey 5 NFC & YubiKey 5C NFC
