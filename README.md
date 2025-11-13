@@ -10,6 +10,11 @@ A list of Black Friday deals for infosec community.
 
 ## Training courses & Labs
 
+### Altered Security - Courses
+**Deal:** TBA.\
+**Period:** Starts 17 Nov.\
+**Link:** https://www.alteredsecurity.com/trainings
+
 ### Hack The Box Prolabs
 **Deal:** 25% off annualsubscription with code: `novprolabsannual25off`.\
 **Period:** Live Until Nov 30, 22:59 CET.\
