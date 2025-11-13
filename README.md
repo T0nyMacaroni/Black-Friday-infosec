@@ -5,7 +5,7 @@ A list of Black Friday deals for infosec community.
 
 ### Hak5 - H4K3D November Deals
 **Deal:** up to 58% off + 10% extra discount on selected items with discount code `H4K3DNOV25`.\
-**Period:** Until 30 Nov\
+**Period:** Live Until 30 Nov.\
 **Link:** https://hak5.org/collections/bfcm
 
 ## Training courses & Labs
@@ -35,11 +35,16 @@ A list of Black Friday deals for infosec community.
 **Period:** Until 30 Nov.\
 **Link:** https://trainsec.net/cybersecurity-courses-black-friday-2025/
 
+### White Knight Labs - All Training Courses
+**Deal:** 50% off all training products from WKL.\
+**Period:** Starts 28 Nov 14:00  CET.\
+**Link:** https://training.whiteknightlabs.com/
+
 ## Hardware
 
 ### Yubico - YubiKey 5 NFC & YubiKey 5C NFC
 **Deal:** 30% off on the YubiKey 5 NFC and/or the YubiKey 5C NFC (maximum 4), automatically applied.\
-**Period:** From 24 Nov Until Dec 2 8:59 CET.\
+**Period:** Starts 24 Nov Until Dec 2 8:59 CET.\
 **Link:** https://www.yubico.com/be/store/2025/black-friday-sale/ 
 
 ## Software & Services
