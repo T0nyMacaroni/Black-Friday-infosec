@@ -41,8 +41,8 @@ A list of Black Friday deals for infosec community.
 **Link:** https://trainsec.net/cybersecurity-courses-black-friday-2025/
 
 ### White Knight Labs - All Training Courses
-**Deal:** 50% off all training products from WKL.\
-**Period:** Starts 28 Nov 14:00  CET.\
+**Deal:** 50% off all training products from WKL, use code `WKLBLACKFRIDAY50` at checkout.\
+**Period:** Starts 28 Nov 14:00 CET, ends 13 Dec. 06:00 CET\
 **Link:** https://training.whiteknightlabs.com/
 
 ## Hardware
