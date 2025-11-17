@@ -11,9 +11,9 @@ A list of Black Friday deals for infosec community.
 ## Training courses & Labs
 
 ### Altered Security - Courses
-**Deal:** TBA.\
-**Period:** Starts 17 Nov.\
-**Link:** https://www.alteredsecurity.com/trainings
+**Deal:** 20% off on all courses and bootcamps in Q1 and Q2 2026. +5% extra on orders of 2 or more courses.\
+**Period:** Starts 17 Nov, ends 17 Dec.\
+**Link:** https://www.alteredsecurity.com/online-labs
 
 ### Hack The Box Prolabs
 **Deal:** 25% off annualsubscription with code: `novprolabsannual25off`.\
@@ -65,6 +65,13 @@ A list of Black Friday deals for infosec community.
 **Deal:** 22 Books for €27,98.\
 **Period:** Live Now until 24 Now 19:59 CET.\
 **Link:** https://www.humblebundle.com/books/linux-for-professionals-apressspringer-books
+
+## Conferences
+
+### AltSecCon - Altered Security
+**Deal:** 10% off on a course at AltSecCon2025.\
+**Period:** From 17 Nov, until 17 Dec.\
+**Link:** https://www.alteredsecurity.com/online-labs
 
 ---
 
