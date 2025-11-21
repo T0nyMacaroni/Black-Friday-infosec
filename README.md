@@ -45,6 +45,11 @@ A list of Black Friday deals for infosec community.
 **Period:** Starts 28 Nov 14:00 CET, ends 13 Dec. 06:00 CET\
 **Link:** https://training.whiteknightlabs.com/
 
+### ZeroPoint Security - All training courses
+**Deal:** Up to 40% off on all courses, automatically applied.\
+**Period:** Starts 21 Nov, ends 1 Dec.\
+**Link:** https://www.zeropointsecurity.co.uk/courses
+
 ## Hardware
 
 ### Yubico - YubiKey 5 NFC & YubiKey 5C NFC
